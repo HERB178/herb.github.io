@@ -1,0 +1,79 @@
+@font-face {
+    font-family: myFont ;
+    src: url(../../BebasNeue-Regular.ttf);
+}
+
+section {
+    height: 105vh;
+    width: 100vw;
+}
+
+.container {
+    height: inherit;
+}
+
+#pg1 {
+    background: url('../img/pg6.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+
+
+}
+#pg2 {
+    background: url('../img/pg6.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+
+
+}
+#pg3 {
+    background: url('../img/pg6.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+
+
+}
+#pg4 {
+    background: url('../img/pg6.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+
+
+}
+.nextpage{
+    font-family: myFont;
+    color:  white
+}
+
+.second-page{
+    
+    backdrop-filter: blur(3px);
+
+   
+    padding: 40px 0;
+    text-align: center;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: #fff;
+    font-weight: bold;
+    border: 16px inset #FFC107;
+}
+
+
+ .hub:hover {
+    background: black;
+ }.dropdwon-menu:hover {
+    background: black;
+ }
+
+
+
